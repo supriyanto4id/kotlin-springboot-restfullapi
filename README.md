@@ -1,7 +1,7 @@
 #API Spec
+
 ##Authentication
 All api mush use this authentication
-
 Request
 - Header
 - X-Api-key: "your secret api key"
